@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+#Actor,#Quote{
+	margin: 20px;
+	padding: 20px;
+	background-color : lightgrey;
+	color:blue;
+}
